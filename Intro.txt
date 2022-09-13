@@ -1,0 +1,80 @@
+Python 
+--------
+Python can be used for Web development, Scientific and Numeric Analysis,
+Creating programs(GUI Interfaces), Software Development, ML&AI 
+
+Software Installation 
+---------------------
+Python 3.9.5
+IDE- Anaconda (jupyter notebook), PyCharm, VScode(jupyter notebook)
+ 
+Virtual Environments
+---------------------
+Create different virtual environments for code integrity, 
+install specific libraries required for specific applications, 
+prevent system wide installation of libraries or packages.
+
+
+Introduction to command line 
+----------------------------
+Open the command line by using CMD from your windows key/ search bar.
+
+run CMD with Administrator privileges 
+
+Navigation 
+cd [dir name] - change directory 
+cd .. - go back to previous directory 
+dir - list all files in current directory 
+[program name] - open specific programs 
+
+
+
+Introduction to Python Programming Language 
+-------------------------------------------
+Python syntax, variables, user input, print
+Python data types
+Python collections 
+Python Functions
+Python Modules and Libraries
+control structure
+Simple program construction 
+
+Python for Data Analysis 
+-----------------------
+Introduction
+Libraries - Numpy, Pandas, MatplotLib, Seaborn 
+
+
+Numpy
+------
+ndarray, 1-D arrays, 2-D arrays
+Numpy Array Methods 
+Random numbers
+
+Pandas
+-------
+Using Numpy and Pandas 
+Series and DataFrames 
+Pandas Methods
+Grouping and Pivot Tables
+
+MatPlotLib
+------------
+Visualization in Python 
+
+Seaborn
+--------
+Datasets and Visualization 
+
+EDA - Exploratory Data Analysis
+-------------------------------
+Data Cleaning, Data Munging
+Statistics
+Measures of Central Tendency
+Regression
+Encoding, Binning, Normalization
+
+
+
+
+
